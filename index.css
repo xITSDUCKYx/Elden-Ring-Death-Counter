@@ -1,0 +1,116 @@
+@font-face {
+    font-family: 'Elden';
+    src:url(/fonts/GaramondPremierProRegular.ttf)
+}
+
+
+*{box-sizing: border-box;}
+body {
+    
+    /* background-color: #fff;
+    background-image: repeating-radial-gradient(#e66465 10%, black 20%, red 40%,black 30%);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat; */
+    
+    background-color: #fff;
+    /* background-image: url("https://source.unsplash.com/random/?soul-like"); */
+    background-image:url("https://preview.redd.it/wzqo9olsot471.png?auto=webp&s=f143bf43d2b577b910333f3a38b2e5869be15930");
+   
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 9em;
+    font-size: 1em;
+    
+    
+    
+   
+ 
+ 
+
+}
+.container {
+    background-color: #0d2c2e9f;
+     
+
+    font-family: 'New Rocker','Rubik Moonrocks' fantasy;
+    font-weight: bold;
+    text-align: center;
+    width: 25em;
+    height: 28em;
+    border: 3px solid silver;
+    border-radius: 5px;
+    
+}
+
+
+
+h1 {
+    
+    font-size: 1.75em;
+    max-width: 900px;
+    margin: 1em auto;
+    text-shadow: 0 0 20px #fff;
+
+}
+
+h2 {
+    font-size: 3.125em;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-shadow: 0 0 10px  #9b1411;
+
+}
+
+.game-title {
+    font-family: 'Elden',serif;
+    text-transform: uppercase;
+    font-size: 2em;
+    display: block;
+    color: #daa823;
+    text-shadow: 0 0 10px black;
+    margin-bottom: 0;
+    
+    
+}
+
+.small-text {
+    margin: 0;
+    font-size: .5em
+    
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #000;
+    color: #9b1411;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+
+#save-btn {
+    background-color: #0f2c2c;
+    text-shadow: 0 0 10px black;
+    text-transform: uppercase;
+    
+    
+    
+}
+
+p {
+    text-shadow: 0 0 10px #fff
+}
+
