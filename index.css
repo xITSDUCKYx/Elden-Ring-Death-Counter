@@ -92,6 +92,12 @@ button {
     width: 200px;
     margin-bottom: 5px;
     border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover,
+button:focus {
+    opacity: .7;
 }
 
 #increment-btn {
