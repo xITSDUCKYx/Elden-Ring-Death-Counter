@@ -5,18 +5,10 @@
 
 
 *{box-sizing: border-box;}
+
 body {
-    
-    /* background-color: #fff;
-    background-image: repeating-radial-gradient(#e66465 10%, black 20%, red 40%,black 30%);
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat; */
-    
     background-color: #fff;
     /* background-image: url("https://source.unsplash.com/random/?soul-like"); */
-    background-image:url("https://preview.redd.it/wzqo9olsot471.png?auto=webp&s=f143bf43d2b577b910333f3a38b2e5869be15930");
-   
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -32,10 +24,9 @@ body {
  
 
 }
+
 .container {
     background-color: #0d2c2e9f;
-     
-
     font-family: 'New Rocker','Rubik Moonrocks' fantasy;
     font-weight: bold;
     text-align: center;

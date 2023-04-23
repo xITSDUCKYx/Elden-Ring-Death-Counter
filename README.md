@@ -1,6 +1,26 @@
-This is site made to log number of deaths per boss in elden ring.It incrments your death when ever you press the "you died" button and logs then when ever you "rest at grace" button.
+# Elden Ring Death Counter
 
--no dependencies-
+## Overview
 
-Build/Deploy..?
+This is site made to log number of deaths per boss in elden ring.
+You can purchase the game [here](https://store.steampowered.com/app/1245620/ELDEN_RING/)!
+
+
+## Features 
+
+* Increment deaths
+* Logs deaths (per Boss)
+* No dependencies
+
+## Build\Deploy
+
+You can see it in action on [Netlify](https://unique-faloodeh-2cbad2.netlify.app/)
+
+### Task List 
+
+-[x] Basic html and css
+-[x] Basic Javascript functionality
+-[ ] Reponsive page 
+-[ ] Use join function for dashes 
+
 

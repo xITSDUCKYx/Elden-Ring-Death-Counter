@@ -4,20 +4,6 @@ let incrementBtn = document.getElementById("increment-btn")
 let saveBtn = document.getElementById("save-btn")
 let count = 0
 
-// incrementBtn.addEventListener("click",function(){
-//     count += 1
-//     countEl.textContent = count
-// })
-
-// saveBtn.addEventListener("click",function(){
-//     let countStr = count + " - "
-//     saveEl.textContent += countStr
-//     countEl.textContent = 0
-//     count = 0
-// console.log("clicked save")
-// })
-
-
 document.addEventListener("click", function(e){
  
     console.log(e.target)
@@ -37,6 +23,6 @@ document.addEventListener("click", function(e){
         count = 0
         countEl.textContent = 0 
     }else {
-        console.log("Clicked on the page")
+        //console.log("Clicked on the page")
     }
 })
