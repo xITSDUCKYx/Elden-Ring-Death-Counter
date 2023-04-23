@@ -2,8 +2,8 @@
 
 ## Overview
 
-This is site made to log number of deaths per boss in elden ring.
-You can purchase the game [here](https://store.steampowered.com/app/1245620/ELDEN_RING/)!
+This is site made to log number of deaths per boss in elden ring.  
+You can purchase the game here on [steam](https://store.steampowered.com/app/1245620/ELDEN_RING/)!
 
 
 ## Features 
@@ -14,13 +14,13 @@ You can purchase the game [here](https://store.steampowered.com/app/1245620/ELDE
 
 ## Build\Deploy
 
-You can see it in action on [Netlify](https://unique-faloodeh-2cbad2.netlify.app/)
+You can see it in action on [Netlify](https://unique-faloodeh-2cbad2.netlify.app/)!
 
 ### Task List 
 
--[x] Basic html and css
--[x] Basic Javascript functionality
--[ ] Reponsive page 
--[ ] Use join function for dashes 
+-[x] Basic html and css  
+-[x] Basic Javascript functionality  
+-[ ] Reponsive page   
+-[ ] Use join function for dashes   
 
 
