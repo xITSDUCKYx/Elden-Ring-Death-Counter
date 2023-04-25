@@ -20,7 +20,7 @@ You can see it in action on [Netlify](https://unique-faloodeh-2cbad2.netlify.app
 
 -[x] Basic html and css  
 -[x] Basic Javascript functionality  
--[ ] Reponsive page   
--[ ] Use join function for dashes   
+-[ ] Reponsive webpage   
+
 
 
